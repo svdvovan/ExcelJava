@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ExcelJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExcelJava_jar</output-path>
+    <root id="archive" name="ExcelJava.jar">
+      <element id="module-output" name="ExcelJava" />
+      <element id="extracted-dir" path="D:/java_libs/poi-3.17/poi-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/java_libs/poi-3.17/poi-ooxml-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/java_libs/poi-3.17/poi-examples-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/java_libs/poi-3.17/poi-excelant-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/java_libs/poi-3.17/poi-scratchpad-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/java_libs/poi-3.17/poi-ooxml-schemas-3.17.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
